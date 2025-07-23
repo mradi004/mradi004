@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hiii Myself Aditya Gupta.<br>
-I am currently working on Freelancing website.<br>I am curious in learning new stuffs.<br>Competitive.<br>Love to code.<br>If I don't know anything then i work as much as i can to know about that thing.
+I am currently learning about GenAI.<br>I am curious in learning new stuffs.<br>Competitive.<br>Love to code.<br>If I don't know anything then i work as much as i can to know about that thing.
 
 
 ## 🌐 Socials:
